@@ -16,3 +16,6 @@ Export your settings with this simple batch script
 
 # Restore settings:
 1. Double-click the generated *.bat file
+
+# Check the other tools:
+https://github.com/HevyMusic/VST-Path-Changer/ for simple Windows VST path changer
